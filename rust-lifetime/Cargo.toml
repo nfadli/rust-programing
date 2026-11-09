@@ -1,0 +1,13 @@
+# ////////////////////////////////////////////////////////////////////
+#   // FILE       :: Cargo.toml
+#   // AUTHOR     :: rowsred
+#   // DATE       :: 2026-06-22
+#   // HOST_OS    :: Linux
+#   // DESC       :: just keep , code
+# ////////////////////////////////////////////////////////////////////
+[package]
+name = "rust-lifetime"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
